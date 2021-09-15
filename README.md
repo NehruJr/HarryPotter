@@ -1,16 +1,24 @@
-# hp
+# Harry Potter App
 
 Harry Potter Movies App Using Flutter
 
-## Getting Started
+## Packages That i Have Used 
 
-This project is a starting point for a Flutter application.
+[ ![Bloc](https://pub.dev/packages/bloc) ]
 
-A few resources to get you started if this is your first Flutter project:
+[ ![dio](https://pub.dev/packages/dio) ]
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[ ![flutter_offline](https://pub.dev/packages/flutter_offline) ]
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[ ![animated_text_kit](https://pub.dev/packages/animated_text_kit) ]
+
+[ ![ animations](https://pub.dev/packages/animations) ]
+
+## API
+https://hp-api.herokuapp.com/
+
+## Screen Shots
+
+![alt text](https://i.ibb.co/J2CKcNP/Screenshot-1631694611.png)
+
+![alt text](https://i.ibb.co/s9JXJ6n/Screenshot-1631694626.png)
